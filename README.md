@@ -16,7 +16,7 @@ I work on AI, machine learning, and deep learning, with a focus on **Arabic NLP*
 
 ## 📄 Selected Work
 - [Toxic comment classification paper]
-- [Enhancing Efficiency in LLM-Based Intrusion Detection for SDN Environments]
+- [Enhancing Efficiency in LLM-Based Intrusion Detection for SDN Environments paper]
 
 
 ## 🌱 Background
