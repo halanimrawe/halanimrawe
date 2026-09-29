@@ -12,6 +12,7 @@ I work on AI, machine learning, and deep learning, with a focus on **Arabic NLP*
 - **Languages:** Python,c++,html
 - **ML/NLP:** PyTorch, Hugging Face Transformers, scikit-learn
 - **Data:** pandas, NumPy, data analysis and visualization
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,cpp,css,dart,html,vscode)](https://skillicons.dev)
 
 ## 📄 Selected Work
 - [Toxic comment classification paper]
